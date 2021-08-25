@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>images</folder>
+  <filename>train_781.png</filename>
+  <path>D:\DeepLearning\Hoop\images\train_781.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>3024</width>
+    <height>4032</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>hoop</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1283.7765088998976</xmin>
+      <ymin>1616.953850307011</ymin>
+      <xmax>1807.2765246379602</xmax>
+      <ymax>2222.410298913105</ymax>
+    </bndbox>
+  </object>
+</annotation>
