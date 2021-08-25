@@ -172,3 +172,22 @@ This video is about realtime bonetrack of people, and can also be used in this p
 3. https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
 4. https://github.com/thtrieu/darkflow
 5. https://medium.com/雞雞與兔兔的⼯工程世界/機器學習-ml-note-yolo-利利⽤用影像辨識做物件偵測-object-detection-的技術-3ad34a4cac70
+## Folder explanation
+1. labelIMG
+  * Model for label images
+  * Might **not** work on **mac**
+2. Data Augemtation
+  * Model for enlarge our data by flip, scale, rotate, shear, resize, translate, gray scale
+3. Hoop (Data folder)
+  * images - images for training
+  * label - PASCAL VOC format label created by labelIMG
+  * Data - video data
+  * video2frame - frame output from video
+  * demo - YOLO output video
+  * bt+yolo - final output, including hoop detection, ball tracking, and angle calculation
+4. YOLO
+  * YOLOv2 model with trained weights (not on GitHub, file too large)
+5. convert2Yolo
+  * turn PASCAL VOC format label into YOLO format, this model is **unused**
+6. data.py/data_enlargement.py
+  * Code for data enlargement wrote by myself, replaced by DataAugmentation, **unused**
