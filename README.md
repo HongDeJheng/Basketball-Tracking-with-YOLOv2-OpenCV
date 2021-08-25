@@ -178,7 +178,7 @@ This video is about realtime bonetrack of people, and can also be used in this p
 3. https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
 4. https://github.com/thtrieu/darkflow
 5. https://medium.com/雞雞與兔兔的⼯工程世界/機器學習-ml-note-yolo-利利⽤用影像辨識做物件偵測-object-detection-的技術-3ad34a4cac70
-## Folder explanation
+## Folders
 1. labelIMG
     * Model for label images
     * Might **not** work on **mac**
