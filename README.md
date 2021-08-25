@@ -163,6 +163,12 @@ bound of the ball color in HSV color space using OpenCV rather than deep learnin
 ![Result 5](./tmp/result5.png)
 ![Result 6](./tmp/result6.png)
 ![Result 7](./tmp/result7.png)
+## Demo
+![Demo 1](./tmp/IMG_5138_demo+bt.gif)
+![Demo 2](./tmp/IMG_5139_demo+bt.gif)
+![Demo 3](./tmp/IMG_5144_demo+bt.gif)
+![Demo 4](./tmp/IMG_5151_demo+bt.gif)
+![Demo 5](./tmp/IMG_5153_demo+bt.gif)
 ## Future work
 　I found a video on [Youtube](https://www.youtube.com/watch?v=pW6nZXeWlGM&ab_channel=ZheCao) and also its [GitHub](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation).
 This video is about realtime bonetrack of people, and can also be used in this project in the future to observe the bone of wrist to adjust shooting.
