@@ -47,7 +47,7 @@ for data in os.listdir(video_path):
              "summary": "logs/"}
   tfnet = TFNet(options)
 ```
-### Trun video to frame
+### Turn video to frame
 　Because we are going to do shooting angle calculation, we need the label position in the videos, but YOLOv2 can only output label position by giving images.
 ```python
 for video in os.listdir(video_path):
